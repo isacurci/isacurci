@@ -23,7 +23,7 @@ Estudante de Engenharia de Software na UTFPR (Campus Dois Vizinhos), com experi�
 ### 🔭 Atualmente
 
 - 🎓 Finalizando o Bacharelado em Engenharia de Software pela **UTFPR** _(2022 – 2026)_
-- 🧠 Desenvolvendo o TCC **"Antifragilidade em Machine Learning"** — robustez de redes neurais com PyTorch (CIFAR-10), pipeline de experimentação com grid search, MLOps e versionamento de dados
+- 🧠 Desenvolvendo o TCC **"Antifragilidade em Machine Learning"** robustez de redes neurais com PyTorch (CIFAR-10), pipeline de experimentação com grid search, MLOps e versionamento de dados
 
 ### 🛠️ Tech Stack
 
