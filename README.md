@@ -78,8 +78,8 @@ _Também: AWS Glue, Athena, RDS, EC2_
 ### 📜 Certificações & Idiomas
 
 - ☁️ AWS Certified Cloud Practitioner
-- 🇬🇧 Cambridge Assessment English – Key English Test (KET) – Pass with Merit
-- 🇧🇷 Português: Nativo &nbsp;|&nbsp; 🇬🇧 Inglês: A2
+-  Cambridge Assessment English – Key English Test (KET) – Pass with Merit
+- Português: Nativo &nbsp;|&nbsp; Inglês: A2
 
 ### 📫 Contato
 
