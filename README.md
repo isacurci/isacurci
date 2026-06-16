@@ -97,10 +97,3 @@ _Também: AWS Glue, Athena, RDS, EC2_
 - 💼 [linkedin.com/in/isabellacurci](https://linkedin.com/in/isabellacurci)
 - 🐙 [github.com/isacurci](https://github.com/isacurci)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isacurci&show_icons=true&theme=tokyonight&hide_border=true" alt="Isabella's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacurci&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
