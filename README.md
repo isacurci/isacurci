@@ -71,6 +71,8 @@ _Também: AWS Glue, Athena, RDS, EC2_
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/torchvision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ### 📜 Certificações & Idiomas
@@ -83,5 +85,4 @@ _Também: AWS Glue, Athena, RDS, EC2_
 
 - 📧 isabellacurci@hotmail.com
 - 💼 [linkedin.com/in/isabellacurci](https://linkedin.com/in/isabellacurci)
-- 🐙 [github.com/isacurci](https://github.com/isacurci)
 
