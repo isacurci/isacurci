@@ -5,7 +5,7 @@
 
 ### 🎓 Sobre mim
 
-Estudante de Engenharia de Software na UTFPR (Campus Dois Vizinhos), com experiência prática em SQL, Python e criação de dashboards. Já trabalhei com queries SQL complexas para extração e transformação de dados, pipelines ETL e AWS. Certificada como **AWS Cloud Practitioner**. Proativa, com facilidade para entender demandas e transformá-las em soluções práticas.
+Formada em Engenharia de Software pela UTFPR (Campus Dois Vizinhos), com experiência prática em SQL, Python e criação de dashboards. Já trabalhei com queries SQL complexas para extração e transformação de dados, pipelines ETL e AWS. Certificada como **AWS Cloud Practitioner**. Proativa, com facilidade para entender demandas e transformá-las em soluções práticas.
 
 ### 💼 Experiência Profissional
 
